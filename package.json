@@ -10,9 +10,9 @@
   "author": "Patrick Meier",
   "license": "Apache-2.0",
   "dependencies": {
-    "boom": "^3.2.1",
-    "hapi": "^13.4.1",
-    "joi": "^8.4.2",
+    "boom": "^4.2.0",
+    "hapi": "^16.1.0",
+    "joi": "^10.2.2",
     "mongojs": "^2.4.0",
     "node-uuid": "^1.4.7"
   }
